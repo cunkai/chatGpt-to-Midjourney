@@ -1,10 +1,8 @@
 # chatGpt-to-Midjourney
 chatGpt to Midjourney Promp
 
-下面的链接或者描述直接复制都行
-
-https://flowus.cn/share/3837ed28-8897-493b-ae62-549d848ec5e0
-chatGpt3.5
+POE配置好的机器人: https://poe.com/MJEN
+mj四格图切割： http://cunkai.gitee.io/mj
 
 单个摄影师：
 
